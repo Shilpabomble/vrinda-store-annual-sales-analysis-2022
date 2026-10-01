@@ -4,7 +4,7 @@
 
 > An interactive Excel dashboard that turns raw e-commerce sales data into clear, actionable insights to help Vrinda Store grow sales in 2023.
 
-[See Dashboard](
+[See Dashboard](https://github.com/Shilpabomble/vrinda-store-annual-sales-analysis-2022/blob/main/Project%20Dashboard.png)
 
 ---
 
