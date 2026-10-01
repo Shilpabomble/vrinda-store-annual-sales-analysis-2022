@@ -203,15 +203,11 @@ Vrinda-Store-Sales-Analysis/
 
 ---
 
-▶️ How to Use
+▶️ How to see
 
 Clone or download this repository.
 
-👉 [Download Dataset](./dataset/Vrinda_Store_Data_Analysis_Dataset.xlsx)
-
-Open `Vrinda_Store_Data_Analysis.xlsx` in Microsoft Excel.
-
-👉 [Open Excel Dashboard](https://github.com/Shilpabomble/vrinda-store-annual-sales-analysis-2022/blob/main/Project%20Dashboard.png)
+👉 [Download Dataset](https://github.com/Shilpabomble/vrinda-store-annual-sales-analysis-2022/blob/main/Vrinda%20Store%20Data%20Analysis_Project.xlsx)
 
 Go to the Dashboard sheet.
 
