@@ -193,10 +193,10 @@ Vrinda-Store-Sales-Analysis/
 │   └── Vrinda_Store_Data_Analysis_Dataset.xlsx
 │
 ├── dashboard/
-│   └── Vrinda_Store_Data_Analysis.xlsx
+│   └── Vrinda_Store_Data_Analysis_Project.xlsx
 │
 ├── images/
-│   └── Project_Project.png
+│   └── Project.png
 │
 └── README.md
 ```
