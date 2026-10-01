@@ -227,6 +227,3 @@ Turning numbers into insights and recommendations a business can act on
 
 ---
 
-📞 Contact
-
-Feel free to connect with me on LinkedIn or GitHub for feedback and collaboration.
