@@ -72,7 +72,7 @@ To strengthen my skills in Excel (Pivot Tables, Charts, Slicers, Dashboards), wh
 | Period      | Calendar year 2022                                                                                  |
 | Key columns | Order ID, Date, Month, Status, Channel, Category, Size, Qty, Amount, Gender, Age Group, State, City |
 
-👉 [Download Dataset](./dataset/Vrinda_Store_Data_Analysis_Dataset.xlsx)
+👉 [Download Dataset](https://github.com/Shilpabomble/vrinda-store-annual-sales-analysis-2022/blob/main/Vrinda%20Store%20Data%20Analysis%20Dataset.xlsx)
 
 ---
 
