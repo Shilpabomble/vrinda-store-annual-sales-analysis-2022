@@ -211,7 +211,7 @@ Clone or download this repository.
 
 Open `Vrinda_Store_Data_Analysis.xlsx` in Microsoft Excel.
 
-👉 [Open Excel Dashboard](./dashboard/Vrinda_Store_Data_Analysis.xlsx)
+👉 [Open Excel Dashboard](https://github.com/Shilpabomble/vrinda-store-annual-sales-analysis-2022/blob/main/Project%20Dashboard.png)
 
 Go to the Dashboard sheet.
 
